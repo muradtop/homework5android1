@@ -1,4 +1,4 @@
-package com.example.homework5android1.ui;
+package com.example.homework5android1.Activity;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -6,7 +6,6 @@ import android.os.Bundle;
 
 import com.example.homework5android1.R;
 import com.example.homework5android1.fragments.first_fragments.FirstFragment;
-import com.example.homework5android1.fragments.second_fragments.SecondFragment;
 
 public class MainActivity extends AppCompatActivity {
 
